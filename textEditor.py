@@ -2,7 +2,7 @@ from tkinter import*
 from tkinter.filedialog import*
 
 win =Tk()
-win.title("My Text Editor")
+win.title("Xstasino Text Editor")
 win.geometry("400x200")
 win.resizable(True, True)
 
